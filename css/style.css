@@ -1,0 +1,18 @@
+/* === PLUGINS Custom Style == */
+
+/* ----------------- contact form 7 ---------------- */
+.wpcf7-submit{
+	background-color: #1a6283;
+	color:#fff;
+  	border-bottom: 1px solid #222;
+  	border-right : 1px solid #222;
+  	text-shadow: 0 0 1px rgba(0, 0, 0, .8);
+  	box-shadow: 0 0 1px rgba(0, 0, 0, .75);
+}
+.wpcf7-form input[type="text"],
+.wpcf7-form textarea {
+	margin-top:5px;
+}
+.wpcf7 form > p { margin:0; }
+
+
